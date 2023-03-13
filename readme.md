@@ -14,3 +14,4 @@ When you're done, [it should display this functionality](https://git.generalasse
 Bonus : 
 - Create as many buttons as you would like, changing up as many different CSS properties as you'd want to use
 - Instead of simply changing colors, create a color gradient, or set the background to be an image found on the web
+- Do your changes through 'document.style...' and by toggling different classes
