@@ -16,6 +16,15 @@ li a {
   border: 3px solid black;
 }
 
+li img {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  /* margin: 0 15px 15px 0; */
+  /* border-radius: 18px; */
+  border: 3px solid black;
+}
+
 h1 {
   line-height: 1.25;
   margin: 1em 0 0;
@@ -46,3 +55,27 @@ p {
 .yellow {
   background-color: yellow;
 }
+
+.hotPink {
+  background-color: #ff1d58;
+}
+
+.limeGreen {
+  background-color: limegreen
+}
+
+.camera {
+  background-image: url(https://images.pexels.com/photos/15225868/pexels-photo-15225868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
